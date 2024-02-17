@@ -1,4 +1,4 @@
 Initial project code
 
-feature-1 code with bug
+feature-1 code
 
